@@ -113,7 +113,6 @@ a{
     display: flex;
     border-top: 1px solid #000;
     border-bottom: 1px solid #000;
-    height: 82vh;
 }
 .header__img {
    flex-basis: 50%;

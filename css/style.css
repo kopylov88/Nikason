@@ -55,9 +55,7 @@ a{
     padding: 20px 0;
     flex-direction: column;
     justify-content: space-between;
-    position: absolute;
-    top: 0;
-    right: 15px;
+    position: relative;
     z-index: 200;
   }
 .hamb.clicked .bar.bar:nth-child(2){

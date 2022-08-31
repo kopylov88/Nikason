@@ -9,9 +9,6 @@ body{
     color: #323232;
     background-color: #E5E5E5;
 }
-body.noscroll{
-    overflow: hidden;
-}
 a{
     color: inherit;
 }

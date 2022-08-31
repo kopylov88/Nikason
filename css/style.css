@@ -55,8 +55,9 @@ a{
     padding: 20px 0;
     flex-direction: column;
     justify-content: space-between;
-    position: relative;
-    z-index: 200;
+    position: absolute;
+    top: 0;
+    right: 15px;
   }
 .hamb.clicked .bar.bar:nth-child(2){
     opacity: 0;

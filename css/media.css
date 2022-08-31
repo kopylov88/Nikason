@@ -44,10 +44,12 @@
 }
 
 @media(max-width: 768px){
+     body.noscroll{
+        overflow: hidden;
+    }
     .title{
         font-size: 32px;
         margin-bottom: 60px;
-
     }
     .nav__inner{
         display: none;
